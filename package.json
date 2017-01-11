@@ -1,0 +1,29 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Learning NodeJs and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anudeepsamaiya/NodeJs-HelloWorld.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "AnudeepSamaiya",
+    "100DaysOfCode"
+  ],
+  "author": "Anudeep Samaiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anudeepsamaiya/NodeJs-HelloWorld/issues"
+  },
+  "homepage": "https://github.com/anudeepsamaiya/NodeJs-HelloWorld#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+	"mongoose": "~3.6.13",
+	"body-parser":"~1.0.1"
+  }
+}
